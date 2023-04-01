@@ -1,59 +1,45 @@
 [
-    {
-      "id": "01",
-      "auth_name": "Mallory Miranda",
-      "blog_title": "How to get your first job as a self-taught programmer",
-      "auth_img": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "blog_img": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
-      "read_time": "5 min read",
-      "publish_date": "Mar 14 (4 Days ago)"
-    },
-    {
-      "id": "02",
-      "auth_name": "Brock Trujillo",
-      "blog_title": "How to get your first job as a self-taught programmer",
-      "auth_img": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "blog_img": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "read_time": "5 min read",
-      "publish_date": "Mar 14 (4 Days ago)"
-    },
-    {
-      "id": "03",
-      "auth_name": "Rivas Whitehead",
-      "blog_title": "How to get your first job as a self-taught programmer",
-      "auth_img": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
-      "blog_img": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "read_time": "5 min read",
-      "publish_date": "Mar 14 (4 Days ago)"
+  {
+    "id": "1",
+    "author_name": "MR. RAZIB",
+    "blog_title": "Why should you learn JavaScript and React.js",
+    "blog_image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "author_image": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/337679212_737992261352425_7064005870337292651_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHlSASfMfAuUeGeL3OW1TgbExfbbv42IegTF9tu_jYh6CByjiJ0D2ApBlajbAPmZKW3pIDz0X5oslR1IHuvYKc9&_nc_ohc=ypxxiEDYFWgAX_m3GBb&_nc_ht=scontent.fdac136-1.fna&oh=00_AfAv3ILOtQa4IIrpowOMKxMzgbMXfSw7w5kxP3IaSMcxDg&oe=642C1145",
+    "read_time": 5,
+    "tags": ["programming", "algorithms"],
+    "published_date": "Mar 27 (4 Days ago)"
+  },
 
-    },
-    {
-      "id": "04",
-      "auth_name": "Berta Lancaster",
-      "blog_title": "How to get your first job as a self-taught programmer",
-      "auth_img": "https://images.unsplash.com/photo-1593104547489-5cfb3839a3b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=853&q=80",
-      "blog_img": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
-      "read_time": "5 min read",
-      "publish_date": "Mar 14 (4 Days ago)"
-    },
-    {
-      "id": "05",
-      "auth_name": "Rebecca Gilbert",
-      "blog_title": "How to get your first job as a self-taught programmer",
-      "auth_img": "https://images.unsplash.com/photo-1542206395-9feb3edaa68d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
-      "blog_img": "https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
-      "read_time": "10 min read",
-      "publish_date": "Mar 14 (4 Days ago)"
+  {
+    "id": "2",
+    "author_name": "Md. PRONAB",
+    "blog_title": "What are the main features of Javascript and ES6",
+    "blog_image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "author_image": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/328521777_711391917072725_1649859154462302940_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG_mcybhDvFs4xShu6ksDzWCuRhc8HMGgoK5GFzwcwaCvtRAyH1NPs2wnBJG8MjKFvBJQ_xvRkEi_NXs6Y4z3LK&_nc_ohc=S6ajoB8LCJcAX_EdtLK&_nc_ht=scontent.fdac136-1.fna&oh=00_AfCKdMg0lE13P1ik6ABYHZ5moQYjYc4HptLEV6Aut1lf8Q&oe=642C61E3",
+    "read_time": 7,
+    "tags": ["dataStructure", "Networking"],
+    "published_date": "Mar 29 (2 Days ago)"
+  },
 
-    },
-    {
-      "id": "06",
-      "auth_name": "Harvey Buckley",
-      "blog_title": "How to get your first job as a self-taught programmer",
-      "auth_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80",
-      "blog_img": "https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      "read_time": "15 min read",
-      "publish_date": "Mar 14 (4 Days ago)"
+  {
+    "id": "3",
+    "author_name": "MD. NAYEEM",
+    "blog_title": "Difference between React, Angular & Vue",
+    "blog_image": "https://athemes.com/wp-content/uploads/react-vue-angular.jpg",
+    "author_image": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/278868910_1063862614164247_3083745799007983617_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHdnhpXwu0RlPJdXaLGoBZzhj1_k2z63zWGPX-TbPrfNYvmUZv9rTBnRzsNjRpRlk3FtYuuCWVUNOiocoz24aAw&_nc_ohc=JDNp6upeZVkAX-blS85&_nc_ht=scontent.fdac136-1.fna&oh=00_AfAmdXaV7E6Gany5_SNqksqCtsupjazzgbxGfeWPqw72-Q&oe=642C03EF",
+    "read_time": 15,
+    "tags": ["algorithms", "dataStructure"],
+    "published_date": "Mar 30 (1 Day ago)"
+  },
 
-    }
-  ]
+  {
+    "id": "4",
+    "author_name": "MD. TAMBULI",
+    "blog_title": "How to get your first job as a self-taught programmer",
+    "blog_image": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGN2JTIwcmVzdW1lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "author_image": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311566336_160934563237528_6953430666513397175_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGtsZm3ZE37FEpm5jZuMJTPZYhAUtsZ6mZliEBS2xnqZhpEYt7l6bDOqOGbVUoUJqV2pD_r7QhWyaTGrkw-1yvJ&_nc_ohc=LETe5U8y_YQAX8Kt3lM&_nc_ht=scontent.fdac136-1.fna&oh=00_AfBc_GQq2l2P5PyACJsfS8TvEWznkUZSb5_-ZaHOCcNNuw&oe=642AD5EF",
+    "read_time": 3,
+    "tags": ["programming", "dataStructure"],
+    "published_date": "Mar 25 (6 Days ago)"
+  }
+]
