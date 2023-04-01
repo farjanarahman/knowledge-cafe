@@ -1,4 +1,5 @@
 import React from 'react';
+import './Header.css'
 
 const Header = () => {
     return (
@@ -7,7 +8,7 @@ const Header = () => {
                 <h2 className='fw-semibold'>Knowledge Cafe</h2>
                 <img src="" alt="" />
             </nav>
-            <hr />
+            <hr/>
         </div>
     );
 };
