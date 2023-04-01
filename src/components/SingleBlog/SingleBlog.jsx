@@ -10,7 +10,7 @@ const SingleBlog = ({ blog, handlerReadTime, handlerBookmarks, blogTitles }) => 
     let flag = false;
     for (const title of blogTitles) {
       if (title === blog_title && !flag) {
-        toast("ভাই এক বার এড করছেন");
+        toast("You have added it already!");
         flag = true;
       }
     }
