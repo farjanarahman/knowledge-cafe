@@ -8,7 +8,7 @@ const Header = () => {
         <div className="container px-md-5">
           <div className="px-md-5">
             <a className="navbar-brand fs-2 fw-bolder" href="#">
-              Programming Turner
+              Programmers Club
             </a>
           </div>
           <div className="px-md-5">
